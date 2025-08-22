@@ -109,7 +109,8 @@ agent.print_status()
 ```
 
 ## Output:
-<img width="727" height="164" alt="image" src="https://github.com/user-attachments/assets/43df2487-b438-4cc9-8da3-ad8d1d087d8d" />
+<img width="748" height="178" alt="Screenshot 2025-08-22 141647" src="https://github.com/user-attachments/assets/2f7fe983-acca-475d-985f-63f5b08e2418" />
+
 
 
 ## Result:
